@@ -8,7 +8,10 @@ grant.higgins@bausch.com
 
 417.848.6590
 
+ARVO 2023 Poster: 
 https://eppro02.ativ.me/web/page.php?page=IntHtml&project=ARVO23&id=3886111
-https://arvo2022.arvo.org/meetings/XgXRQ8BbDjoyg927A
+
+ARVO 2022: 
+Utrasonic Vitrectomy device-tissue interaction characterization
 
 https://www.linkedin.com/in/grant-higgins-84001b201
