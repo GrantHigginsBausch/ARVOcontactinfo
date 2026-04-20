@@ -5,9 +5,14 @@ Grant Higgins, B.S. in Biomedical Engineering
 Senior Systems/Control Engineer for Bausch + Lomb
 
 Contact info:
+
 grant.higgins@bausch.com
+
 417.848.6590
+
 https://www.linkedin.com/in/grant-higgins-84001b201
+
+
 
 ARVO 2026 Abstract: 
 Impact of flow rate and phaco energy on viscoelastic erosion in a model eye
