@@ -2,16 +2,20 @@
 
 Grant Higgins, B.S. in Biomedical Engineering
 
-Systems/Control Engineer for Bausch & Lomb
+Senior Systems/Control Engineer for Bausch + Lomb
 
 grant.higgins@bausch.com
 
 417.848.6590
 
+ARVO 2026 Abstract: 
+Impact of flow rate and phaco energy on viscoelastic erosion in a model eye
+
 ARVO 2025 Abstract:
 Comparison of traction, sphere of influence, and pulsatile flow in-vitro Vitrectomy Using 25ga 25,000 CPM dual action Vitrectomy Probes and 25ga 7,500 CPM Single action Vitrectomy Probes 
 
 ARVO 2024 Abstract:
+Enhancing silicone oil removal efficiency: A comparitive study of ultrasonic vitrectomy handpieces and conventional methods
 https://eppro02.ativ.me/web/index.php?page=IntHtml&project=ARVO24&id=4051309
 
 ARVO 2023 Abstract: 
